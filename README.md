@@ -47,6 +47,7 @@ them is to [search GitHub for "dotfiles"](https://github.com/search?q=dotfiles&t
 Also see:
 
 - [Google for "dotfiles"](https://www.google.nl/search?q=dotfiles)
+- [Reddit r/dotfiles](https://reddit.com/r/dotfiles)
 - [Archlinux collection](https://wiki.archlinux.org/index.php/Dotfiles)
 - Tip: search for a filename on GitHub, e.g.
   [in:path .gitconfig](https://github.com/search?utf8=%E2%9C%93&type=Code&q=in%3Apath+.gitconfig).
